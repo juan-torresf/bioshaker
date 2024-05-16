@@ -5,6 +5,10 @@ Se irá actualizando mediante se tengan nuevas versiones.
 
 Apartir de que en el código sale una advertencia de cualquier tipo, lo mejor es no usarlo y no tomar en cuenta los cálculos. 
 
+Versión 1.0.3.
+
+Cambios finales para su implementación real.
+
 Versión 1.0.2.
 
 -Pide edad, sexo y actividad física, es para calcular el GER, después según tu actividad física se calcula el GET, la diferencia entre los dos nos da el gasto energético por la actividad física. Las listas de GER y GET están declaras al inicio del código, los rangos de edad y los cálculos están dentro de la función get_get(m).
